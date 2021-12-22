@@ -2,7 +2,7 @@
 
 /* A hacky way to hide the input field if we want to. opacity=0 */
 #formForLoginToBeHidden {
-   opacity: 100;
+   opacity: 0;
 }
 
 .LunchIcon {
